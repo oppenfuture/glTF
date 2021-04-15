@@ -36,6 +36,7 @@
 * [MSFT_packing_normalRoughnessMetallic](2.0/Vendor/MSFT_packing_normalRoughnessMetallic/README.md)
 * [MSFT_packing_occlusionRoughnessMetallic](2.0/Vendor/MSFT_packing_occlusionRoughnessMetallic/README.md)
 * [MSFT_texture_dds](2.0/Vendor/MSFT_texture_dds/README.md)
+* [OFT_materials_pointSprite](2.0/Vendor/OFT_materials_pointSprite/README.md)
 
 #### In-progress Khronos and multi-vendor extensions
 
